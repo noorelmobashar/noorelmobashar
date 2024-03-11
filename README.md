@@ -154,7 +154,7 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorelmobashar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="noorelmobashar" /></a> </p>
 
-[![@noorelmobashar's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@noorelmobashar)
+[![@noorelmobashar's Holopin board](https://holopin.io/api/user/board?user=noorelmobashar)](https://holopin.io/@noorelmobashar)
 	
 </details>
 	

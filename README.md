@@ -148,26 +148,9 @@
  
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorelmobashar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="noorelmobashar" /></a> </p>
-
-[![@noorelmobashar's Holopin board](https://holopin.io/api/user/board?user=noorelmobashar)](https://holopin.io/@noorelmobashar)
-	
-</details>
 	
 
 
 </br></br>
 	
-## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noorelmobashar/noorelmobashar/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noorelmobashar/noorelmobashar/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noorelmobashar/noorelmobashar/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>

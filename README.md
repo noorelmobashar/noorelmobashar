@@ -6,7 +6,7 @@
 
 <br><br>
 - :school: I am a `Computer Science Student` at the [Faculty of Computers & AI](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
-- :trophy: 2x `ECPC` Finalist.
+- :trophy: 3x `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`.
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things

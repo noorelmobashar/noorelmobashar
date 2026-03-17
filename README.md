@@ -5,12 +5,13 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `Computer Science Student` at the [Faculty of Computers & AI](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
+- :school: I am a `Computer Science graduate` from the [Faculty of Computers & AI](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
+- :school: I am an Open Source Applications Development Track Trainee at [Information Technology Institute](https://iti.gov.eg/)
 - :trophy: 3x `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`.
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
-- :computer: Using Python to Automate Tasks and Currently Learning backend development.
+- :computer: Full-stack Developer.
 <br>
 
 
